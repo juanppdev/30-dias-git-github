@@ -58,3 +58,4 @@ Durante los últimos 15 días, nos centraremos en habilidades más avanzadas:
 
 
 ## Dia 1 ✅ Creacion, configuracion y finalizacion del programa Git-it
+## Dia 2 ✅ git  status, add, commit, log, show, diff <codigo1> <codigo2> (Para comparar), checkout

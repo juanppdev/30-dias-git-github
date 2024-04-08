@@ -62,3 +62,4 @@ Durante los últimos 15 días, nos centraremos en habilidades más avanzadas:
 ## Dia 3 ✅ git  reset <version> (--hard, --soft), log --stat, checkout <version> + archivo, clone, fetch, merge, pull. branch, checkout + branch
 ## Dia 4 ✅ conflictos, mensajes cifrados, usando llave ssh, "ssh-keygen -t rsa -b 4096 -C "fomundi.fr@gmail.com", envio de archivos"
 ## Dia 5 ✅ git log --all --graph --decorate --oneline, aliases <comandoCustom> "Comando de git", tags (git tag -a <tagAPoner> -m "tu mensaje" + hash), git sho-ref --tags, git push origin --tags, git tag -d <tag>, git push origin :refs/tags/<tuTag>, git show-branch (--all)
+## Dia 5 ✅ Fusion de ramas usando merge

@@ -65,3 +65,4 @@ Durante los últimos 15 días, nos centraremos en habilidades más avanzadas:
 ## Dia 5 ✅ Fusion de ramas usando merge
 ## Dia 6 ✅ Forks, pull request (Web), traer cambios de un proyecto original usando: git remote add upstream <link>
 ## Dia 7 ✅ Resolver ejercicio planteado por platzi, .gitignore, Readme.md (Para contar de que se trata tu repositorio). 
+## Dia 8 ✅ Github Pages, git rebase (reescribe la historia del repositorio), git stash (branch, drop)

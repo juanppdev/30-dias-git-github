@@ -67,3 +67,5 @@ Durante los últimos 15 días, nos centraremos en habilidades más avanzadas:
 ## Dia 7 ✅ Resolver ejercicio planteado por platzi, .gitignore, Readme.md (Para contar de que se trata tu repositorio). 
 ## Dia 8 ✅ Github Pages, git rebase (reescribe la historia del repositorio), git stash (branch, drop)
 ## Dia 9 ✅ git clean (--dry-run, -f), git cherry-pick + hash, git reflog, git commit --amend, git grep (-c) <a buscar>, git shortlog (-sn, --all, --no-merges), git config --global alias.stats "comando a ejecutar", git blame (-c) <archivo>, git branch (-r, -a)
+
+## Dia 10 - Introduccion a Git con Mouredev
